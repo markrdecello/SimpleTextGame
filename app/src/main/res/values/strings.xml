@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">myGame</string>
+
+    <string name="startMenu">
+        Hello there stranger... You have entered a restricted app! Leave now or
+        face and suffer the consequences! If you wish to ignore this warning
+        hit the ENTER button and your wish shall be granted! Be Warned!
+    </string>
+
+    <string name="instructions">
+        The door behind you has been locked and any attempt
+        of escape will cost you your life. Outside these walls are hungry lions
+        that have not eaten in years! Shall you choose to exit and manage to
+        escape from the lions, then your life shall be spared and consider
+        yourself lucky! You have the option to escape by heading back South,
+        or would you like to continue by going North, East, or West? Within
+        this haunted place is a safe exit, but most rooms are filled with traps.
+        Choose where you go carefully!
+    </string>
+
+    <string name="choose">
+        Choose Wisely!
+    </string>
+
+    <string name="direction">
+        Which \nDirection?
+    </string>
+
+    <string name="wrong_direction">
+        Wrong direction you stupid human! Select another direction! Because of such a stupid action, you
+        have lost one life!
+    </string>
+
+    <string name="exit">
+        Congratulations! You have called my bluff! You are now free to go and have successfully escaped
+        with ease. You are lucky to have not faced all the obstacles. Now leave and never come back!
+    </string>
+
+    <string name="lobby">
+        You are now in the lobby. Don\'t worry human, this is the only place where
+        you are safe. If you see any paranormal creatures, just run back to the lobby and you shall
+        be safe. You have the option to head NORTH, WEST, or EAST. Head SOUTH and face those ravenous
+        lions! You have been warned!
+    </string>
+
+    <string name="basement">
+        You have entered the basement. As you can see, the dead bodies that were here
+        have all turned to ash. You have the option to stay here or go back and head SOUTH. Trying
+        to go in a different direction will only cost you one life!
+    </string>
+</resources>
+
